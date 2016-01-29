@@ -1,0 +1,15 @@
+{
+  "name": "test-electron",
+  "version": "0.0.1",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mateuslinhares/test-electron.git"
+  },
+  "devDependencies": {
+    "electron-prebuilt": "^0.36.5"
+  }
+}
